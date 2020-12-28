@@ -1,0 +1,41 @@
+
+DOES THE CAPITAL INVESTMENT AND THE COSEQUENT ENERGY SUPPLY AND PERMEATION OF RENEWABLES IN CHINA; GERMANY; INDIA AND USA; CORRESPONT WITH THE INVESTMENT (FINANCIAL INDEXES) OF THE TOP COMPANIES IN EACH COMPANY RESPECTIVELY? HOW DO THIS INVESTMENTS CORRELATE?
+
+SOURCE FILE: raw_data\worldbank_EnergData.csv
+INDICATORS FROM <https://databank.worldbank.org/source/sustainable-energy-for-all#>
+	Access to electricity (% of rural population with access) 
+	Access to electricity (% of total population) 
+	Access to electricity (% of urban population with access) 
+	Energy intensity level of primary energy (MJ/2011 USD PPP) 	
+	Renewable electricity share of total electricity output (%) 
+	Renewable energy share of TFEC (%) 
+
+SOURCE FILE: raw_data\enerdata_stat_ybook.xlsx
+INDICATORS FROM <https://yearbook.enerdata.net/>
+	Share of renewables in electricity production		(%)			
+	Share of wind and solar in electricity production	(%)
+	Electricity Production					(TWh)
+	Electricity Consumption					(TWh)
+
+SOURCE FILE: raw_data\bp_stats_review.xlsx
+INDICATORS FROM <http://www.bp.com/statisticalreview>
+	Renewable Energy - Geothermal (Installed capacity)	(MW)
+	Renewable Energy - Solar (Installed capacity)		(MW)
+	Renewable Energy - Wind  (Installed capacity)		(MW)
+	Primary Energy: Consumption				(Exajoules)
+	Electricity generation					(TWh)
+	Electricity generation from other			(TWh)
+	Renewables - Consumption - Exajoules
+
+SOURCE FILE: raw_data\Bloomberg_inv_renew.csv 
+INDICATORS FROM <https://www.bloomberg.com/graphics/climate-change-data-green/investment.html>
+	Asset investment in renewables				(Billions USD) current value?
+
+SOURCE FILE(s): raw_data\IEA_EBalanc_Hlights.xlsx, raw_data\IEA_EEffic_Hlights.xlsx
+INDICATORS FROM <https://www.iea.org/data-and-statistics>
+	Energy Indicators [for 4 Sectors, only USA and Germany]	(yearly Indexed)
+	World_Energy_Balances_Highlights_[2020_edition]		(Whole balances in LONG tables)
+		
+	
+			
+
