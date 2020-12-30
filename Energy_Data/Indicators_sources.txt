@@ -3,39 +3,42 @@ DOES THE CAPITAL INVESTMENT AND THE COSEQUENT ENERGY SUPPLY AND PERMEATION OF RE
 
 SOURCE FILE: raw_data\worldbank_EnergData.csv
 INDICATORS FROM <https://databank.worldbank.org/source/sustainable-energy-for-all#>
-	Access to electricity (% of rural population with access) 
-	Access to electricity (% of total population) 
-	Access to electricity (% of urban population with access) 
-	Energy intensity level of primary energy (MJ/2011 USD PPP) 	
-	Renewable electricity share of total electricity output (%) 
-	Renewable energy share of TFEC (%) 
+	INDICATOR					UNIT			RESULT SOURCE FILE
+	Access to electricity rural population		(%)			wb_access_elec_rural
+	Access to electricity Total			(%)			wb_access_elec
+	Energy intensity, primary energy		(MJ/USD, 2011PPP) 	wb_e_intensity
+	Renewable share electricity output		(%)			wb_share_renew_elec
+	Renewable share energy of TFEC			(%)			wb_share_renew_tfec
 
 SOURCE FILE: raw_data\enerdata_stat_ybook.xlsx
 INDICATORS FROM <https://yearbook.enerdata.net/>
-	Share of renewables in electricity production		(%)			
-	Share of wind and solar in electricity production	(%)
-	Electricity Production					(TWh)
-	Electricity Consumption					(TWh)
+	INDICATOR					UNIT			RESULT SOURCE FILE
+	Renewable share electricity production		(%)			edata_share_renew_elec
+	Wind and solar share electricity production	(%)			edata_share_windsolar
+	Electricity Production				(TWh)			edata_elec_prod
+	Electricity Consumption				(TWh)			edata_elec_consum
 
 SOURCE FILE: raw_data\bp_stats_review.xlsx
 INDICATORS FROM <http://www.bp.com/statisticalreview>
-	Renewable Energy - Geothermal (Installed capacity)	(MW)
-	Renewable Energy - Solar (Installed capacity)		(MW)
-	Renewable Energy - Wind  (Installed capacity)		(MW)
-	Primary Energy: Consumption				(Exajoules)
-	Electricity generation					(TWh)
-	Electricity generation from other			(TWh)
-	Renewables - Consumption - Exajoules
+	INDICATOR					UNIT			RESULT SOURCE FILE
+	Renewable Energy Geothermal (Installed capacity)(MW)			bp_geoth_instcap
+	Renewable Energy Solar (Installed capacity)	(MW)			bp_solar_instcap
+	Renewable Energy Wind  (Installed capacity)	(MW)			bp_wind_instcap
+	Primary Energy: Consumption			(Exajoules)		bp_penergy_consum
+	Renewables:Consumption				(Exajoules)		bp_renew_consum
+	Electricity generation				(TWh)			bp_elec_gen
+	Electricity generation from other		(TWh)			bp_elec_gen_other
 
 SOURCE FILE: raw_data\Bloomberg_inv_renew.csv 
 INDICATORS FROM <https://www.bloomberg.com/graphics/climate-change-data-green/investment.html>
-	Asset investment in renewables				(Billions USD) current value?
+	INDICATOR					UNIT			RESULT SOURCE FILE
+	Asset investment in renewables			(Billions USD)		bloom_renew_invest
 
 SOURCE FILE(s): raw_data\IEA_EBalanc_Hlights.xlsx, raw_data\IEA_EEffic_Hlights.xlsx
 INDICATORS FROM <https://www.iea.org/data-and-statistics>
-	Energy Indicators [for 4 Sectors, only USA and Germany]	(yearly Indexed)
-	World_Energy_Balances_Highlights_[2020_edition]		(Whole balances in LONG tables)
-		
-	
-			
-
+	INDICATOR					UNIT			RESULT SOURCE FILE
+	WEB Services Energy Indicators	  (Germ/USA)	(energyInt_indexed)	web_serv_energinten
+	WEB Residential Energy Indicators (Germ/USA)	(energyInt_indexed)	web_resid_energinten
+	WEB Transport Energy Indicators   (Germ/USA)	(energyInt_indexed)	web_trans_energinten
+	WEB Industry Energy Indicators	  (Germ/USA)	(energyInt_indexed)	web_indust_energinten
+	WEB Energy Balance  (long table, 'TimeSeries_')	(various)		web_ener_balance
