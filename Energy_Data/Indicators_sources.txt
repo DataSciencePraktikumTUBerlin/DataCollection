@@ -1,14 +1,14 @@
 
-DOES THE CAPITAL INVESTMENT AND THE COSEQUENT ENERGY SUPPLY AND PERMEATION OF RENEWABLES IN CHINA; GERMANY; INDIA AND USA; CORRESPONT WITH THE INVESTMENT (FINANCIAL INDEXES) OF THE TOP COMPANIES IN EACH COMPANY RESPECTIVELY? HOW DO THIS INVESTMENTS CORRELATE?
+DOES THE CAPITAL INVESTMENT AND THE COSEQUENT ENERGY SUPPLY AND PERMEATION OF RENEWABLES IN CHINA; GERMANY; INDIA AND USA; CORRESPONT WITH THE INVESTMENT (FINANCIAL INDEXES) OF THE TOP COMPANIES IN EACH COUNTRY RESPECTIVELY? HOW DO THIS INVESTMENTS CORRELATE?
 
 SOURCE FILE: raw_data\worldbank_EnergData.csv
 INDICATORS FROM <https://databank.worldbank.org/source/sustainable-energy-for-all#>
 	INDICATOR					UNIT			RESULT SOURCE FILE
-	Access to electricity rural population		(%)			wb_access_elec_rural
-	Access to electricity Total			(%)			wb_access_elec
-	Energy intensity, primary energy		(MJ/USD, 2011PPP) 	wb_e_intensity
-	Renewable share electricity output		(%)			wb_share_renew_elec
-	Renewable share energy of TFEC			(%)			wb_share_renew_tfec
+	Access to electricity rural population		(%)			\
+	Access to electricity Total			(%)			 \
+	Energy intensity, primary energy		(MJ/USD, 2011PPP) 	  wbank_Indic
+	Renewable share electricity output		(%)			 /
+	Renewable share energy of TFEC			(%)			/
 
 SOURCE FILE: raw_data\enerdata_stat_ybook.xlsx
 INDICATORS FROM <https://yearbook.enerdata.net/>
