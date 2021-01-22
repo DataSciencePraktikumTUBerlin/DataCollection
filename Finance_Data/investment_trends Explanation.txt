@@ -1,0 +1,16 @@
+Sources: 
+    * https://www.irena.org/Statistics/View-Data-by-Topic/Finance-and-Investment/Investment-Trends
+    * https://www.fs-unep-centre.org/wp-content/uploads/2020/06/GTR_2020.pdf
+
+Asset finance: All money invested in renewable energy generation projects, whether from internal company balance sheets, from debt finance, or from equity finance. It excludes refinancings. The project may or may not be commissioned in the same year.
+
+Public markets: all money invested in the equity of specialist publicly quoted companies developing renewable energy technology and clean power generation.
+
+Private equity: all money invested by private equity funds in the equity of specialist companies developing renewable energy technology. Similar investment in companies setting up generating capacity through special purpose vehicles is counted in the asset financing figure.
+
+Venture capital: all money invested by venture capital in the equity of specialist companies developing renewable energy technology. Similar investment in companies setting up generating capacity through special purpose vehicles is counted in the asset financing figure.
+
+M&A (Mergers and acquisitions): The value of existing equity and debt purchased by new corporate buyers in companies developing renewable technology or operating renewable energy projects.
+
+Small distributed capacity: Annual investment in small-scale and residential projects such as rooftop solar is estimated. These figures are based on annual installation data, provided by industry associations and REN21.
+
