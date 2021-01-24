@@ -10,7 +10,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('invest_renewab.csv')
+df = pd.read_csv('raw_data/Bloomberg_inv_renew.csv')
 
 # Renaming due to the usage as polt lables.
 df = df.rename(columns={'year': 'Year'})
